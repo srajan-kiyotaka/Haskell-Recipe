@@ -1,15 +1,6 @@
 import System.IO
 import System.Environment
 
-----------------------------------
---         Question 1           --
---                              -- 
---   Name: Srajan Chourasia     --
---   Roll No.: 2003135          --
---                              --  
-----------------------------------
-
-
 -- main function
 main = do 
        print $ "Enter a Binary Number: "
